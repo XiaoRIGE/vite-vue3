@@ -1,0 +1,40 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "window.zoomLevel": 0,
+    "eslint.validate": [
+      "javascript",
+      "javascriptreact",
+      "vue-html",
+      "vue",
+    ],
+    "eslint.run": "onSave",
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    "[vue]": {
+      "editor.defaultFormatter": "octref.vetur"
+    },
+    "eslint.codeAction.showDocumentation": {
+      "enable": true
+    },
+    "compile-hero.jade-output-directory": "",
+    "compile-hero.javascript-output-directory": "",
+    "compile-hero.pug-output-directory": "",
+    "compile-hero.sass-output-directory": "",
+    "compile-hero.scss-output-directory": "",
+    "compile-hero.typescript-output-directory": "",
+    "compile-hero.typescriptx-output-directory": "",
+    "compile-hero.less-output-directory": "",
+    "compile-hero.jade-output-toggle": false,
+    "compile-hero.javascript-output-toggle": false,
+    "compile-hero.less-output-toggle": false,
+    "compile-hero.pug-output-toggle": false,
+    "compile-hero.sass-output-toggle": false,
+    "compile-hero.scss-output-toggle": false,
+    "compile-hero.typescript-output-toggle": false,
+    "compile-hero.typescriptx-output-toggle": false,
+    "git.ignoreWindowsGit27Warning": true,
+    "[javascript]": {
+      "editor.defaultFormatter": "Wscats.eno"
+    },
+}
